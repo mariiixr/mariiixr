@@ -36,3 +36,4 @@ Me chamo Maria Clara, tenho 19 anos e sou de Santo André - SP. Atualmente, esto
 <br/>
 <br/>
 
+Gosta de Cyberpunk 2077? Veja este NotebookLM que criei especialmente para o universo de Cyberpunk! -> https://notebooklm.google.com/notebook/e646f431-4767-48f0-9719-10146376f1fa
